@@ -1,5 +1,3 @@
-Visit **[pediatricmsklab.ca](https://pediatricmsklab.ca)** 🚀
-
 
   ![on-push](../../actions/workflows/on-push.yaml/badge.svg)
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)

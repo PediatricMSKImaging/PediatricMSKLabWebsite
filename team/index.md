@@ -9,7 +9,7 @@ nav:
 
 <h1>Team</h1>
 
-<p>Meet the people behind the lab, including the principal investigator, current members, and alumni.</p>
+<p>Meet the people behind the lab, including the principal investigators, current members, and alumni.</p>
 
 </div>
 
@@ -25,7 +25,7 @@ nav:
   <a href="{{ 'team/lab-photos' | relative_url }}">View Lab Photos</a>
 </div>
 
-<h2>Principal Investigator</h2>
+<h2>Principal Investigators</h2>
 
 <div class="team-section team-section--pi">
 {% include list.html data="members" component="portrait" filter="role == 'pi'" style="team-featured" %}
